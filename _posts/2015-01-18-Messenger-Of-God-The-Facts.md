@@ -5,12 +5,16 @@ description: "Info about the Saint"
 author: "Nababrata Datta"
 ---
 
-#Baba
+#MESSENGER OF GOD_THE FACTS
 
 •	Who is SantGurmeet Ram Rahim Singh?
 Gurmeet Ram Rahim Singh is a social reformer, preacher, spiritual leader and the head of the India-based socio-spiritual organisation DeraSachaSauda (DSS). His organization has overseen many social works like cleanliness campaign, blood drives, tree planting, disaster relief, and support for transgender people, tribal communities, orphans, and rehabilitation of sex workers. Given his huge following in northern parts of the country he exerts a commendable political influence and his often heard giving political statements.
+
+
 •	What is Dera?
 Sikhism, as a religion, was formed to break away from the caste structure of Hinduism - or so the first leaders of the religion had in mind. Over the years, however, Sikhism has retained the caste system, and the evil continues to plague the religion, which came into being, ironically, as a rejection of the same. So much so that Sikhs all over Punjab have separate gurudwaras for lower caste Sikhs - the Dalits and the Jats, and the higher caste ones. In order to not suffer humiliation at the higher caste-only gurudwaras, several Deras began mushrooming in Punjab, centred on their own messiahs. Currently, somewhere around 8,000 Deras are operational in the Punjab, and many of them are involved in social work directed at the upliftment of lower caste Sikhs.
+
+
 •	History of SantGurmeet Ram Rahim Singh.
 Along with all his social reforms the Godman has been in the news for wrong reasons too some of which are:
 1.	Conflict with orthodox Sikhs: In May 2007, a section of orthodox Sikhs stated that Singh's attire in an advertisement resembled that of the tenth Sikh Guru Gobind Singh. They accused him of blasphemy and of hurting Sikh sentiments.
@@ -21,4 +25,4 @@ Subsequently, court cases were filed against him.
 5.	Conversion of black money: It is alleged that through his movie ‘Messenger of God’ he is trying to make his black money white.
 
 
-###Baba
+###MESSENGER OF GOD_THE FACTS

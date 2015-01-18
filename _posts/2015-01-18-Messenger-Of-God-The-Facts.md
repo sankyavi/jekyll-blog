@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "MESSENGER OF GOD_THE FACTS"
+title: "MESSENGER OF GOD THE FACTS"
 description: "Info about the Saint"
 author: "Nababrata Datta"
 ---
 
-#MESSENGER OF GOD_THE FACTS
+#MESSENGER OF GOD THE FACTS
 
 •	Who is SantGurmeet Ram Rahim Singh?
 Gurmeet Ram Rahim Singh is a social reformer, preacher, spiritual leader and the head of the India-based socio-spiritual organisation DeraSachaSauda (DSS). His organization has overseen many social works like cleanliness campaign, blood drives, tree planting, disaster relief, and support for transgender people, tribal communities, orphans, and rehabilitation of sex workers. Given his huge following in northern parts of the country he exerts a commendable political influence and his often heard giving political statements.
@@ -25,4 +25,4 @@ Subsequently, court cases were filed against him.
 5.	Conversion of black money: It is alleged that through his movie ‘Messenger of God’ he is trying to make his black money white.
 
 
-###MESSENGER OF GOD_THE FACTS
+###MESSENGER OF GOD THE FACTS
